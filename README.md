@@ -23,8 +23,7 @@
 
 * **Master's degree at graduate school DSU in *Republic of Korea*(2022.03 ~ )**
     * Research visual intelligence
-        * GAN, 3D Segementation
-        * GPU Clustering
+        * Generation Model(AE, VAE, GAN) 
 
 * **Work in ETRI (2022.02. ~ )**
     * A Research on the Source Technology of Autonomous Growth Complex Artificial Intelligence
