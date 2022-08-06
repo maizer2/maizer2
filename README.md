@@ -25,7 +25,7 @@
     * Research visual intelligence
         * Generation Model(AE, VAE, GAN) 
 
-* **Work in ETRI (2022.02. ~ )**
+* **Work in ETRI (2022.03. ~ )**
     * A Research on the Source Technology of Autonomous Growth Complex Artificial Intelligence
 
 ---
