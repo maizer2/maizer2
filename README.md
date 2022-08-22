@@ -27,6 +27,7 @@
 
 * **Work in ETRI (2022.03. ~ )**
     * A Research on the Source Technology of Autonomous Growth Complex Artificial Intelligence
+        * Virtural Try-On Network using GAN, AE
 
 ---
 
