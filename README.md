@@ -33,13 +33,7 @@
 
 ### **Paper**
 
-* **Characteristics Analysis of Incomplete Deepfake Image of SAEHD Model Using OpenCV, 2021.12**
-* **Body Restoration Image-to-Image Translation Network, 2022.10**
-
+* **Characteristics Analysis of Incomplete Deepfake Image of SAEHD Model Using OpenCV, 2021 Undergraduate thesis**
+* **Body Restoration Image-to-Image Translation Network, 2022 KIIS**
+* **Diffusion-VTON, Diffusion based Virtual Try-on Network, 2023 KCC**
 ---
-
-### **Goal of Life**
-
-* Write three papers before graduated master Degree
-* Will Be Fluently use English
-* Doctor's Degree in USA
