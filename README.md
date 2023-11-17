@@ -36,6 +36,6 @@
 * **Characteristics Analysis of Incomplete Deepfake Image of SAEHD Model Using OpenCV, 2021 Undergraduate thesis**
 * **Body Restoration Image-to-Image Translation Network, 2022 KIIS**
 * **Diffusion-VTON, Diffusion based Virtual Try-on Network, 2023 KCC**
-* **Diffusion-VTON, Diffusion based Virtual Try-on Network, KTCP**
+* **DiSAIn-VTON: Diffusion-based Similar Apparel Inpainting Virtual Try-on Network, KTCP**
 * **Versatile-VTON: A Versatile Virtual Try-on Network, 2023 ICCE-Asia**
 ---
