@@ -39,3 +39,10 @@
 * **DiSAIn-VTON: Diffusion-based Similar Apparel Inpainting Virtual Try-on Network, KTCP**
 * **Versatile-VTON: A Versatile Virtual Try-on Network, 2023 ICCE-Asia**
 ---
+
+### Recent works
+
+* ECCV paper
+* ETRI Journal
+* SCI Access
+* Master's Drgree Thesis
