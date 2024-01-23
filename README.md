@@ -1,7 +1,7 @@
 ### **Introduction**
 
-* Hello, My name is Hyeonwoo Jin, I borned at Republic of Korea in Busan.
-* Now I work ETRI in Visual Intelligence Laboratory  and i have a master's degree in graduate school DSU.
+* My name is Hyeonwoo Jin, I borned at Republic of Korea in Busan.
+* Now I work ETRI in Visual Intelligence Laboratory and i have a master's degree in graduate school DSU.
 * I research visual intelligence using probailistic models via VAE, GAN, Diffusion.
 * My favorite sentence is "There is no end to learning."
 
