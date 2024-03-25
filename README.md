@@ -25,7 +25,7 @@
     * Research visual intelligence
         * Generation Model
 
-* **Work in ETRI (2022.03. ~ )**
+* **Work in ETRI (2022.03. ~ 2024.02)**
     * A Research on the Source Technology of Autonomous Growth Complex Artificial Intelligence
         * VTON(Virtural Try-On Network) using Diffusion, GAN, VAE, etc.
 
@@ -39,10 +39,3 @@
 * **DiSAIn-VTON: Diffusion-based Similar Apparel Inpainting Virtual Try-on Network, KTCP**
 * **Versatile-VTON: A Versatile Virtual Try-on Network, 2023 ICCE-Asia**
 * **Research on Performance Enhancement Strategies for Virtual Try-on Networks Utilizing Artificial Intelligence, 2024 Master thesis**
----
-
-### Recent works
-
-* ECCV paper
-* ETRI Journal
-* SCI Access
