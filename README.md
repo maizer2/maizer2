@@ -1,6 +1,6 @@
 ### **Introduction**
 
-* My name is Hyeonwoo Jin, I borned at Republic of Korea in Busan and now live in Seoul.
+* My name is Hyunwoo Jin, I borned at Republic of Korea in Busan and now live in Seoul.
 * Now I work KIDA in Center for Military Analysis and Planning Battlefield Information Planning Division.
 * I research visual intelligence using probailistic models via VAE, GAN, Diffusion.
 * My favorite sentence is "There is no end to learning."
