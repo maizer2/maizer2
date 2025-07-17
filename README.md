@@ -25,7 +25,7 @@
     * Research visual intelligence
         * Generation Model
 
-* **Work in ETRI (2022.03. ~ 2024.02)**
+* **Worked in ETRI (2022.03. ~ 2024.02)**
     * A Research on the Source Technology of Autonomous Growth Complex Artificial Intelligence
         * VTON(Virtural Try-On Network) using Diffusion, GAN, VAE, etc.
 
